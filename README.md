@@ -27,7 +27,7 @@ N'hésitez pas à donner vos avis et remarque.
 
 ### Links
 
-- URL de la solution: [lien](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-media-query-ShuqihuWbS)
+- URL de la solution: [lien](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-media-query-8hnF01zSGn)
 - URL site: [url site](https://angestephane.github.io/qr-code-component/)
 
 ## My process
